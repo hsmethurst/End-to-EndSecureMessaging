@@ -6,3 +6,9 @@ messaging app that provides protected communications with end-to-end text encryp
 ```bash
 python3 pip install -r requirements.txt
 ```
+
+
+
+# References
+
+https://en.wikipedia.org/wiki/Modular_exponentiation#Direct_method
